@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://edwavisuals.github.io/bible-quiz/sitemap.xml
